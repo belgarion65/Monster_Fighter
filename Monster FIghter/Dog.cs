@@ -11,6 +11,7 @@ namespace Monster_FIghter
 
         public Dog(string name, string breed) : base(name, breed)
         {
+            ///
         }
 
         public override string MakeNoise()
